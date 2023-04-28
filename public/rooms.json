@@ -1,0 +1,99 @@
+[
+  {
+    "restaurant_name": "The Green House",
+    "description": "Vegan-friendly restaurant with a focus on sustainability",
+    "bedrooms": 1,
+    "people": 2,
+    "price": 329,
+    "rooms": [
+      {
+        "room_type": "Couple Power Room",
+        "description": "Spacious room with a queen-sized bed",
+        "people": 2,
+        "price": 299
+      }
+    ]
+  },
+  {
+    "restaurant_name": "La Petite Brasserie",
+    "description": "Cozy French bistro with classic dishes",
+    "bedrooms": 2,
+    "people": 4,
+    "price": 499,
+    "rooms": [
+      {
+        "room_type": "Family Capacity Room",
+        "description": "Spacious room with a queen-sized bed",
+        "people": 2,
+        "price": 299
+      },
+      {
+        "room_type": "Family Capacity Room",
+        "description": "Large room with multiple beds and plenty of space for a family",
+        "people": 6,
+        "price": 899
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Mama's Italian Kitchen",
+    "description": "Family-style restaurant with homemade pasta",
+    "bedrooms": 3,
+    "people": 6,
+    "price": 799,
+    "rooms": [
+      {
+        "room_type": "Family Capacity Room",
+        "description": "Large room with multiple beds and plenty of space for a family",
+        "people": 6,
+        "price": 899
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Sushi King",
+    "description": "Sushi restaurant with a modern twist",
+    "bedrooms": 1,
+    "people": 3,
+    "price": 219,
+    "rooms": [
+      {
+        "room_type": "Family Capacity Room",
+        "description": "Spacious room with a queen-sized bed",
+        "people": 2,
+        "price": 299
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Thai Orchid",
+    "description": "Authentic Thai restaurant with spicy flavors",
+    "bedrooms": 2,
+    "people": 5,
+    "price": 599,
+    "rooms": [
+      {
+        "room_type": "Couple Power Room",
+        "description": "Spacious room with a queen-sized bed",
+        "people": 2,
+        "price": 299
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Burger Bar",
+    "description": "American-style burger joint with a variety of toppings",
+    "bedrooms": 1,
+    "people": 4,
+    "price": 189,
+    "rooms": [
+      
+      {
+        "room_type": "Family Capacity Room",
+        "description": "Large room with multiple beds and plenty of space for a family",
+        "people": 6,
+        "price": 899
+      }
+    ]
+  }
+]
