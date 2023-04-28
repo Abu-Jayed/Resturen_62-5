@@ -5,6 +5,7 @@
     "bedrooms": 1,
     "people": 2,
     "price": 329,
+    "img": "../src/assets/img_1.jpeg",
     "rooms": [
       {
         "room_type": "Couple Power Room",
@@ -20,6 +21,7 @@
     "bedrooms": 2,
     "people": 4,
     "price": 499,
+    "img": "../src/assets/img_2.jpeg",
     "rooms": [
       {
         "room_type": "Family Capacity Room",
@@ -41,6 +43,7 @@
     "bedrooms": 3,
     "people": 6,
     "price": 799,
+    "img": "../src/assets/img_3.jpg",
     "rooms": [
       {
         "room_type": "Family Capacity Room",
@@ -56,6 +59,7 @@
     "bedrooms": 1,
     "people": 3,
     "price": 219,
+    "img": "../src/assets/img_1.jpeg",
     "rooms": [
       {
         "room_type": "Family Capacity Room",
@@ -71,6 +75,7 @@
     "bedrooms": 2,
     "people": 5,
     "price": 599,
+    "img": "../src/assets/img_4.jpeg",
     "rooms": [
       {
         "room_type": "Couple Power Room",
@@ -86,6 +91,7 @@
     "bedrooms": 1,
     "people": 4,
     "price": 189,
+    "img": "../src/assets/img_5.jpeg",
     "rooms": [
       
       {

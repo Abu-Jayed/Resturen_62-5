@@ -8,6 +8,7 @@ const Layout = () => {
     <div>
       <Navbar></Navbar>
       <Outlet></Outlet>
+      <div className='mt-12'>copyright</div>
     </div>
   );
 };
